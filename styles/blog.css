@@ -3,3 +3,13 @@ div{
     padding: 10px;
     margin-top: 20px;
 }
+ul{
+    background-color: aqua;
+}
+li{
+    font-style: italic;
+}
+#Push{
+    font-size: large;
+    
+}
